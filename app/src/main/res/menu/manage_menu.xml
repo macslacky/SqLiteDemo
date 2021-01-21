@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/modRec" android:title="@string/editRec" />
+    <item android:id="@+id/delRec" android:title="@string/deleteRec" />
+    <item android:id="@+id/listRec" android:title="@string/listRec" />
+</menu>

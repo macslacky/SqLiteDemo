@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SqLiteDemo</string>
+    <string name="newRec">Aggiungi Nota</string>
+    <string name="editRec">Modifica</string>
+    <string name="deleteRec">Cancella</string>
+    <string name="listRec">Lista Note</string>
+    <string name="deleteContact">vuoi cancellarlo?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+</resources>
